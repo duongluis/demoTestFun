@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System.Diagnostics;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using WebApplication1.Models;
 using WebApplication1.Views.ViewModel;
@@ -40,6 +41,7 @@ namespace WebApplication1.Controllers
         public async Task<List<Product>> GetAllProductsAsync()
         {
             var product = await _context.Products.Include(p => p.Category).ToListAsync();
+            
             return product;
         }
 
