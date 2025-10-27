@@ -1,0 +1,72 @@
+﻿@model List<WebApplication1.Models.Product>
+@{
+    ViewData["Title"] = "Quản Lý Sản Phẩm";
+    Layout = "_AdminLayout";
+}
+
+<div class="container-fluid">
+    <h1 class="h3 mb-4 text-gray-800">Quản Lý Sản Phẩm</h1>
+
+    <!-- Products Table -->
+    <div class="card shadow mb-4">
+        <div class="card-header py-3 d-flex justify-content-between align-items-center">
+            <h6 class="m-0 font-weight-bold text-primary">Danh Sách Sản Phẩm</h6>
+            <span class="badge badge-info">Tổng: @Model.Count sản phẩm</span>
+        </div>
+        <div class="card-body">
+            @if (Model.Any())
+            {
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Tên sản phẩm</th>
+                            <th>Danh mục</th>
+                            <th>Người bán</th>
+                            <th>Giá</th>
+                            <th>Loại</th>
+                            <th>Trạng thái</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var product in Model)
+                        {
+                            <tr>
+                                <td>@product.Id</td>
+                                <td>@product.Title</td>
+                                <td>@product.Category?.Name</td>
+                                <td>@product.Seller?.Username</td>
+                                <td>@FormatCurrency(product.Price)</td>
+                                <td>
+                                    @if (product.IsAuction)
+                                    {
+                                        <span class="badge badge-warning">Đấu Giá</span>
+                                        @if (product.AuctionEndTime.HasValue)
+                                        {
+                                            <br />
+                                            <small>Kết thúc: @product.AuctionEndTime.Value.ToString("dd/MM/yyyy HH:mm")</small>
+                                        }
+                                    }
+                                    else
+                                    {
+                                        <span class="badge badge-info">Mua Ngay</span>
+                                    }
+                                </td>
+                            </tr>
+                        }
+
+                    </tbody>
+                    }
+                </table>
+
+            }
+        </div>
+    </div>
+</div>
+
+@functions {
+    public string FormatCurrency(decimal value)
+    {
+        return value.ToString("N0") + " VND";
+    }
+}

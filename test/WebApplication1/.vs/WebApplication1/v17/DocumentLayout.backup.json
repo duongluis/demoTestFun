@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|c:\\users\\pc\\desktop\\learn\\season 7\\prn222_re\\project\\test\\webapplication1\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|c:\\users\\pc\\desktop\\learn\\season 7\\prn222_re\\project\\test\\webapplication1\\views\\product\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|solutionrelative:views\\product\\product.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|c:\\users\\pc\\desktop\\learn\\season 7\\prn222_re\\project\\test\\webapplication1\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|c:\\users\\pc\\desktop\\learn\\season 7\\prn222_re\\project\\test\\webapplication1\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|solutionrelative:views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|c:\\users\\pc\\desktop\\learn\\season 7\\prn222_re\\project\\test\\webapplication1\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|c:\\users\\pc\\desktop\\learn\\season 7\\prn222_re\\project\\test\\webapplication1\\controllers\\oderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|solutionrelative:controllers\\oderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|c:\\users\\pc\\desktop\\learn\\season 7\\prn222_re\\project\\test\\webapplication1\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|solutionrelative:views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|c:\\users\\pc\\desktop\\learn\\season 7\\prn222_re\\project\\test\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|c:\\users\\pc\\desktop\\learn\\season 7\\prn222_re\\project\\test\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|c:\\users\\pc\\desktop\\learn\\season 7\\prn222_re\\project\\test\\webapplication1\\models\\cloneebaydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|solutionrelative:models\\cloneebaydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|c:\\users\\pc\\desktop\\learn\\season 7\\prn222_re\\project\\test\\webapplication1\\migrations\\cloneebaydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|solutionrelative:migrations\\cloneebaydbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|c:\\users\\pc\\desktop\\learn\\season 7\\prn222_re\\project\\test\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|c:\\users\\pc\\desktop\\learn\\season 7\\prn222_re\\project\\test\\webapplication1\\views\\home\\empty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|solutionrelative:views\\home\\empty.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|c:\\users\\pc\\desktop\\learn\\season 7\\prn222_re\\project\\test\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|c:\\users\\pc\\desktop\\learn\\season 7\\prn222_re\\project\\test\\webapplication1\\models\\ordertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|solutionrelative:models\\ordertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|c:\\users\\pc\\desktop\\learn\\season 7\\prn222_re\\project\\test\\webapplication1\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|c:\\users\\pc\\desktop\\learn\\season 7\\prn222_re\\project\\test\\webapplication1\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|solutionrelative:_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|c:\\users\\pc\\desktop\\learn\\season 7\\prn222_re\\project\\test\\webapplication1\\webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|solutionrelative:webapplication1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|c:\\users\\pc\\desktop\\learn\\season 7\\prn222_re\\project\\test\\webapplication1\\models\\shippinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|solutionrelative:models\\shippinginfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|c:\\users\\pc\\desktop\\learn\\season 7\\prn222_re\\project\\test\\webapplication1\\views\\viewmodel\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AC8054D-19BB-4852-AD93-69B45BC02D8C}|WebApplication1.csproj|solutionrelative:views\\viewmodel\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwCkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T10:31:45.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Views\\Product\\Product.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Product.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Views\\Product\\Product.cshtml",
+              "RelativeToolTip": "Views\\Product\\Product.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T10:38:55.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T10:28:42.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CloneEbayDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Models\\CloneEbayDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\CloneEbayDbContext.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Models\\CloneEbayDbContext.cs",
+              "RelativeToolTip": "Models\\CloneEbayDbContext.cs",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAhwE4BAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T09:43:16.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T10:45:45.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OdersController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Controllers\\OdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OdersController.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Controllers\\OdersController.cs",
+              "RelativeToolTip": "Controllers\\OdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T10:31:35.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T10:31:51.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T10:27:26.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFsAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-27T10:05:39.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T11:54:18.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CloneEbayDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Migrations\\CloneEbayDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\CloneEbayDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Migrations\\CloneEbayDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\CloneEbayDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAMcBAAAAAAAAAAAewMoBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:08:50.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T09:44:15.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:53:27.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "empty.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Views\\Home\\empty.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\empty.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Views\\Home\\empty.cshtml",
+              "RelativeToolTip": "Views\\Home\\empty.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T12:00:10.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShippingInfo.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Models\\ShippingInfo.cs",
+              "RelativeDocumentMoniker": "Models\\ShippingInfo.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Models\\ShippingInfo.cs",
+              "RelativeToolTip": "Models\\ShippingInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T10:39:40.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T10:40:47.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\_ViewImports.cshtml",
+              "RelativeToolTip": "_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-26T10:43:33.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderTable.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Models\\OrderTable.cs",
+              "RelativeDocumentMoniker": "Models\\OrderTable.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Models\\OrderTable.cs",
+              "RelativeToolTip": "Models\\OrderTable.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T10:49:24.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Views\\ViewModel\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "Views\\ViewModel\\DashboardViewModel.cs",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\Views\\ViewModel\\DashboardViewModel.cs",
+              "RelativeToolTip": "Views\\ViewModel\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-26T10:38:16.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WebApplication1.csproj",
+              "DocumentMoniker": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\WebApplication1.csproj",
+              "RelativeDocumentMoniker": "WebApplication1.csproj",
+              "ToolTip": "C:\\Users\\pc\\Desktop\\learn\\season 7\\PRN222_re\\project\\test\\WebApplication1\\WebApplication1.csproj",
+              "RelativeToolTip": "WebApplication1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-26T09:32:02.944Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
